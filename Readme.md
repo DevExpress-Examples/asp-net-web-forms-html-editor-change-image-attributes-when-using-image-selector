@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxHtmlEditor - How to change image's attributes when inserting images via ImageSelector
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t109859/)**
+<!-- run online end -->
 
 
 <p>Let's assume that you need to change an image's attributes when inserting an image using the Image Selector of the ASPxHtmlEditor. To do this, use the <a href="https://documentation.devexpress.com/#AspNet/DevExpressWebASPxHtmlEditorScriptsASPxClientHtmlEditor_CommandExecutedtopic">ASPxClientHtmlEditor.CommandExecuted</a> event.<br /><br />First, use the <a href="https://documentation.devexpress.com/#AspNet/DevExpressWebASPxHtmlEditorScriptsASPxClientHtmlEditorCommandEventArgs_commandNametopic">e.commandName</a> property to determine if the image was inserted via the Image selector and get information about image's source via the <a href="https://documentation.devexpress.com/#AspNet/DevExpressWebASPxHtmlEditorScriptsASPxClientHtmlEditorCommandEventArgs_parametertopic">e.parameter</a> property: </p>
