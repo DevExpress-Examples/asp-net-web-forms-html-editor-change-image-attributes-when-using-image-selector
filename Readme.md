@@ -26,7 +26,7 @@
 
 
 <p> </p>
-<p>Using the <a href="https://documentation.devexpress.com/#AspNet/DevExpressWebASPxHtmlEditorScriptsASPxClientHtmlEditor_GetDesignViewDocumenttopic">ASPxClientHtmlEditor.GetDesignViewDocument</a> method you can get the document object inside ASPxHtmlEditor. Now it is possible to find all images via the <a href="http://www.w3schools.com/jsref/met_doc_getelementsbytagname.asp">getElementsByTagName</a> method:</p>
+<p>Using the <a href="https://documentation.devexpress.com/#AspNet/DevExpressWebASPxHtmlEditorScriptsASPxClientHtmlEditor_GetDesignViewDocumenttopic">ASPxClientHtmlEditor.GetDesignViewDocument</a> method you can get the document object inside ASPxHtmlEditor. Now it is possible to find all images via the <a href="https://developer.mozilla.org/en-US/docs/Web/API/Element/getElementsByTagName">getElementsByTagName</a> method:</p>
 
 
 ```js
