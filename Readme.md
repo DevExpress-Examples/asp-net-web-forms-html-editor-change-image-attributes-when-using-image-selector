@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Html Editor for ASP.NET Web Forms - How to change image's attributes when inserting images with ImageSelector
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128544771/)**
-<!-- run online end -->
 
 This example demonstrates how to use [ASPxClientHtmlEditor.CommandExecuted](https://docs.devexpress.com/AspNet/js-ASPxClientHtmlEditor.CommandExecuted) event to change an image's attributes when inserting an image with the Image Selector.
 
